@@ -1,3 +1,9 @@
+Created by:- Shubham Kumar Yadav. <br>
+
+Project name:- Chatting Application(App).<br>
+
+Created in Android studio using language kotlin and also use HTML,PHP,css,scss and JS to create admin panel.<br>
+
 Please Read Carefully all Step by Step.
 
 1. Open the project in Android studio.
@@ -24,5 +30,4 @@ Please Read Carefully all Step by Step.
 
 12. Admin was created in website using PHP,HTML CSS and JS and the data was come from firebased database Through online.
 
- ............................................................................Coshubham.......................................................................................................... 
-14. 
+............................................................................Coshubham........................................................................................
