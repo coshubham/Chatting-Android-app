@@ -2,6 +2,8 @@ Created by:- Shubham Kumar Yadav. <br>
 
 Project name:- Chatting Application(App).<br>
 
+DataBase name:- Firebase.<br>
+
 Created in Android studio using language kotlin and also use HTML,PHP,css,scss and JS to create admin panel.<br>
 
 Please Read Carefully all Step by Step.
