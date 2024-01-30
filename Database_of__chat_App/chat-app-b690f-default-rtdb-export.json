@@ -1,0 +1,252 @@
+{
+  "Presence": {
+    "1LUfJpnBQmfTpF5LWPIOjRWTpIR2": "offline",
+    "6nypZIGTRChWXKFsZktUR3SREqj2": "offline",
+    "e8QiyJkhU6RVCHb7edWPOOlVeQq1": "offline",
+    "hsEyvcKZLpX55LVGWp41exbyi3l2": "offline",
+    "mfKFqJmtQdZdjirjso6ynLqFqrj2": "offline"
+  },
+  "chats": {
+    "1LUfJpnBQmfTpF5LWPIOjRWTpIR2e8QiyJkhU6RVCHb7edWPOOlVeQq1": {
+      "message": {
+        "-NTZNx6llfH3NsqBg7G6": {
+          "message": "Hey 👋",
+          "senderId": "e8QiyJkhU6RVCHb7edWPOOlVeQq1",
+          "timeStamp": 1682090217888
+        },
+        "-NTZOBMJA4ChD6znCwiC": {
+          "message": "Hey 😎",
+          "senderId": "1LUfJpnBQmfTpF5LWPIOjRWTpIR2",
+          "timeStamp": 1682090281081
+        },
+        "-NTZOJ9UocC28XWlhyGI": {
+          "message": "How are you bro?",
+          "senderId": "e8QiyJkhU6RVCHb7edWPOOlVeQq1",
+          "timeStamp": 1682090312270
+        },
+        "-NTZOfF9A5DttYVS9Znw": {
+          "message": "Fine bro Enjoying in Goa \n ⛱️🏖️",
+          "senderId": "1LUfJpnBQmfTpF5LWPIOjRWTpIR2",
+          "timeStamp": 1682090407599
+        },
+        "-NTZOhqyoqB-Pvsm4Hi7": {
+          "message": "ok",
+          "senderId": "e8QiyJkhU6RVCHb7edWPOOlVeQq1",
+          "timeStamp": 1682090417517
+        },
+        "-NTZOsZNEmT5b0IfUIGN": {
+          "message": "cool bro 😎",
+          "senderId": "e8QiyJkhU6RVCHb7edWPOOlVeQq1",
+          "timeStamp": 1682090461383
+        },
+        "-NTZOtY822VPSNPjGneM": {
+          "message": "What About You?",
+          "senderId": "1LUfJpnBQmfTpF5LWPIOjRWTpIR2",
+          "timeStamp": 1682090466158
+        },
+        "-NTZP85v-UdYDE1XsZ8l": {
+          "message": "I am also fine bro doing assignment of college and project work😅😅",
+          "senderId": "e8QiyJkhU6RVCHb7edWPOOlVeQq1",
+          "timeStamp": 1682090529130
+        },
+        "-NTZPEmAQtNdrQqLiWs9": {
+          "message": "okay \n",
+          "senderId": "1LUfJpnBQmfTpF5LWPIOjRWTpIR2",
+          "timeStamp": 1682090557232
+        },
+        "-NTZPJmnD6exmyy10z_N": {
+          "message": "Great  bro😅😅",
+          "senderId": "1LUfJpnBQmfTpF5LWPIOjRWTpIR2",
+          "timeStamp": 1682090577751
+        },
+        "-NTZPR5ksLMzsJn24vNv": {
+          "message": "Hmmmm",
+          "senderId": "e8QiyJkhU6RVCHb7edWPOOlVeQq1",
+          "timeStamp": 1682090606943
+        }
+      }
+    },
+    "e8QiyJkhU6RVCHb7edWPOOlVeQq11LUfJpnBQmfTpF5LWPIOjRWTpIR2": {
+      "message": {
+        "-NTZNx6llfH3NsqBg7G6": {
+          "message": "Hey 👋",
+          "senderId": "e8QiyJkhU6RVCHb7edWPOOlVeQq1",
+          "timeStamp": 1682090217888
+        },
+        "-NTZOBMJA4ChD6znCwiC": {
+          "message": "Hey 😎",
+          "senderId": "1LUfJpnBQmfTpF5LWPIOjRWTpIR2",
+          "timeStamp": 1682090281081
+        },
+        "-NTZOJ9UocC28XWlhyGI": {
+          "message": "How are you bro?",
+          "senderId": "e8QiyJkhU6RVCHb7edWPOOlVeQq1",
+          "timeStamp": 1682090312270
+        },
+        "-NTZOfF9A5DttYVS9Znw": {
+          "message": "Fine bro Enjoying in Goa \n ⛱️🏖️",
+          "senderId": "1LUfJpnBQmfTpF5LWPIOjRWTpIR2",
+          "timeStamp": 1682090407599
+        },
+        "-NTZOhqyoqB-Pvsm4Hi7": {
+          "message": "ok",
+          "senderId": "e8QiyJkhU6RVCHb7edWPOOlVeQq1",
+          "timeStamp": 1682090417517
+        },
+        "-NTZOsZNEmT5b0IfUIGN": {
+          "message": "cool bro 😎",
+          "senderId": "e8QiyJkhU6RVCHb7edWPOOlVeQq1",
+          "timeStamp": 1682090461383
+        },
+        "-NTZOtY822VPSNPjGneM": {
+          "message": "What About You?",
+          "senderId": "1LUfJpnBQmfTpF5LWPIOjRWTpIR2",
+          "timeStamp": 1682090466158
+        },
+        "-NTZP85v-UdYDE1XsZ8l": {
+          "message": "I am also fine bro doing assignment of college and project work😅😅",
+          "senderId": "e8QiyJkhU6RVCHb7edWPOOlVeQq1",
+          "timeStamp": 1682090529130
+        },
+        "-NTZPEmAQtNdrQqLiWs9": {
+          "message": "okay \n",
+          "senderId": "1LUfJpnBQmfTpF5LWPIOjRWTpIR2",
+          "timeStamp": 1682090557232
+        },
+        "-NTZPJmnD6exmyy10z_N": {
+          "message": "Great  bro😅😅",
+          "senderId": "1LUfJpnBQmfTpF5LWPIOjRWTpIR2",
+          "timeStamp": 1682090577751
+        },
+        "-NTZPR5ksLMzsJn24vNv": {
+          "message": "Hmmmm",
+          "senderId": "e8QiyJkhU6RVCHb7edWPOOlVeQq1",
+          "timeStamp": 1682090606943
+        }
+      }
+    },
+    "e8QiyJkhU6RVCHb7edWPOOlVeQq1hsEyvcKZLpX55LVGWp41exbyi3l2": {
+      "message": {
+        "-NTbBEcBJEoKpzHUfQeN": {
+          "message": "mst banaya bhaaiiiii",
+          "senderId": "hsEyvcKZLpX55LVGWp41exbyi3l2",
+          "timeStamp": 1682137217372
+        }
+      }
+    },
+    "hsEyvcKZLpX55LVGWp41exbyi3l2e8QiyJkhU6RVCHb7edWPOOlVeQq1": {
+      "message": {
+        "-NTbBEcBJEoKpzHUfQeN": {
+          "message": "mst banaya bhaaiiiii",
+          "senderId": "hsEyvcKZLpX55LVGWp41exbyi3l2",
+          "timeStamp": 1682137217372
+        }
+      }
+    }
+  },
+  "presence": {
+    "1LUfJpnBQmfTpF5LWPIOjRWTpIR2": "Online",
+    "2TJAwV4yXzfCoC9rMrjR9wbK0Ky2": "Online",
+    "3ugj1FIpInhtUQJT7DkwpHY1gD63": "Online",
+    "5RmYhweZ0HOiDh1EQvhHcwFtXEv1": "Online",
+    "6nypZIGTRChWXKFsZktUR3SREqj2": "Online",
+    "7hmGb3XyjGZrrUqvj7ulRwuGxcG3": "Online",
+    "BqEZ6dLNpxQaXyhehHP6DxTicKh1": "Online",
+    "F3Y5shJv43hbjiFCra1lr1BrAIT2": "Online",
+    "UbHGkHei85d0TF7f70iLHQdrVJh2": "Online",
+    "e8QiyJkhU6RVCHb7edWPOOlVeQq1": "Online",
+    "gKErVMeRj2hE55SBK6N0zGDaWCq2": "Online",
+    "hsEyvcKZLpX55LVGWp41exbyi3l2": "Online",
+    "iwtVOFhNXMSUjzeKDdHRVanCsMu2": "Online",
+    "l45NE7ZTyrO70gwYpHChk95liOA3": "Online",
+    "mfKFqJmtQdZdjirjso6ynLqFqrj2": "Online",
+    "tV04HaL28EXHNWT2235rm6ct8UH2": "Online",
+    "uo8D68UAYrN8lUUVCMI5YSNcVpt2": "Online"
+  },
+  "users": {
+    "1LUfJpnBQmfTpF5LWPIOjRWTpIR2": {
+      "bio": "📸𝐏𝐡𝐨𝐭𝐨𝐠𝐫𝐚𝐩𝐡𝐲 𝐊𝐢𝐧𝐠📸",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/chat-app-b690f.appspot.com/o/Profile%2F1682087597981?alt=media&token=83dd321d-a638-462d-a38f-ef0d2fb78c21",
+      "name": "Sam",
+      "uid": "1LUfJpnBQmfTpF5LWPIOjRWTpIR2"
+    },
+    "2TJAwV4yXzfCoC9rMrjR9wbK0Ky2": {
+      "bio": "🤎Big Fan Of Virat Kohli💙",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/chat-app-b690f.appspot.com/o/Profile%2F1682088030228?alt=media&token=042bcc0b-5667-4774-8f64-0f8eaaf499c8",
+      "name": "Vijay Laxmi ",
+      "uid": "2TJAwV4yXzfCoC9rMrjR9wbK0Ky2"
+    },
+    "3ugj1FIpInhtUQJT7DkwpHY1gD63": {
+      "bio": "🎼Music addicted🎶",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/chat-app-b690f.appspot.com/o/Profile%2F1682087127795?alt=media&token=8b885b9e-b320-47e5-9650-c27914188e30",
+      "name": "Hardik ",
+      "uid": "3ugj1FIpInhtUQJT7DkwpHY1gD63"
+    },
+    "5RmYhweZ0HOiDh1EQvhHcwFtXEv1": {
+      "bio": "❤Do not trust too fast*",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/chat-app-b690f.appspot.com/o/Profile%2F1682087015371?alt=media&token=0684b129-9a74-4b28-94de-13d5b96c4afe",
+      "name": "Harsh",
+      "uid": "5RmYhweZ0HOiDh1EQvhHcwFtXEv1"
+    },
+    "6nypZIGTRChWXKFsZktUR3SREqj2": {
+      "bio": "Mere bio dekh ke kya karoge. 😏",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/chat-app-b690f.appspot.com/o/Profile%2F1682086540005?alt=media&token=50f3cfd3-1ba3-46a7-9ecf-a4b4bbe1ccc6",
+      "name": "Aryan Raj Verma ",
+      "uid": "6nypZIGTRChWXKFsZktUR3SREqj2"
+    },
+    "7hmGb3XyjGZrrUqvj7ulRwuGxcG3": {
+      "bio": "Asst prof in Rofel college Vapi ",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/chat-app-b690f.appspot.com/o/Profile%2F1682089679319?alt=media&token=773da25b-6338-40e1-9d92-af6ea61891ae",
+      "name": "Tanvi Rana",
+      "uid": "7hmGb3XyjGZrrUqvj7ulRwuGxcG3"
+    },
+    "BqEZ6dLNpxQaXyhehHP6DxTicKh1": {
+      "bio": "💪𝐈 𝐋𝐨𝐯𝐞 𝐅𝐢𝐭𝐧𝐞𝐬𝐬 ❣️",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/chat-app-b690f.appspot.com/o/Profile%2F1682087519530?alt=media&token=1258d6b5-a9ed-4d53-a8ba-4390d3617a3f",
+      "name": "Shivam",
+      "uid": "BqEZ6dLNpxQaXyhehHP6DxTicKh1"
+    },
+    "F3Y5shJv43hbjiFCra1lr1BrAIT2": {
+      "bio": "Don’t tell anyone, but I’m a ninja.",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/chat-app-b690f.appspot.com/o/Profile%2F1682086675969?alt=media&token=84e3625b-4024-489e-871b-fc11408a18d0",
+      "name": "Arjun",
+      "uid": "F3Y5shJv43hbjiFCra1lr1BrAIT2"
+    },
+    "UbHGkHei85d0TF7f70iLHQdrVJh2": {
+      "bio": "❤LOVE DANCEZZ🔥",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/chat-app-b690f.appspot.com/o/Profile%2F1682087800068?alt=media&token=37664c80-fe98-496a-960c-99a920962a93",
+      "name": "Kaavya",
+      "uid": "UbHGkHei85d0TF7f70iLHQdrVJh2"
+    },
+    "e8QiyJkhU6RVCHb7edWPOOlVeQq1": {
+      "bio": "Android & Website Development ",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/chat-app-b690f.appspot.com/o/Profile%2F1682083774808?alt=media&token=055d55fb-2890-414c-bc16-cb944daf5e44",
+      "name": "Shubham",
+      "uid": "e8QiyJkhU6RVCHb7edWPOOlVeQq1"
+    },
+    "hsEyvcKZLpX55LVGWp41exbyi3l2": {
+      "bio": "hey it's mehaaaaa",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/chat-app-b690f.appspot.com/o/Profile%2F1682137168103?alt=media&token=45ac2d00-2746-48de-a8c9-5bbcb56117bb",
+      "name": "meha",
+      "uid": "hsEyvcKZLpX55LVGWp41exbyi3l2"
+    },
+    "iwtVOFhNXMSUjzeKDdHRVanCsMu2": {
+      "bio": "Website Designer ",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/chat-app-b690f.appspot.com/o/Profile%2F1682089285409?alt=media&token=4d618231-55ed-4331-95ff-a2d8da5646be",
+      "name": "Shubham ",
+      "uid": "iwtVOFhNXMSUjzeKDdHRVanCsMu2"
+    },
+    "mfKFqJmtQdZdjirjso6ynLqFqrj2": {
+      "bio": "Long story short, humanity is good ",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/chat-app-b690f.appspot.com/o/Profile%2F1682086104955?alt=media&token=250f47df-faf5-4402-baf2-7af8622d3ee4",
+      "name": "Gaurav Rao",
+      "uid": "mfKFqJmtQdZdjirjso6ynLqFqrj2"
+    },
+    "uo8D68UAYrN8lUUVCMI5YSNcVpt2": {
+      "bio": "MBBS Study💊",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/chat-app-b690f.appspot.com/o/Profile%2F1682089469171?alt=media&token=e265310a-32cf-4d83-8692-ca924cd8b688",
+      "name": "Dr. Shivam ",
+      "uid": "uo8D68UAYrN8lUUVCMI5YSNcVpt2"
+    }
+  }
+}

@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/signup"
+    tools:context=".SignupActivity">
+
+    <ImageButton
+        android:id="@+id/backbuttonimage"
+        android:layout_width="43dp"
+        android:layout_height="37dp"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="10dp"
+        android:layout_marginEnd="349dp"
+        android:background="@drawable/baseline_arrow_back_ios_24" />
+
+
+
+    <EditText
+        android:id="@+id/editTextTextEmailAddress"
+        android:layout_width="355dp"
+        android:layout_height="62dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="30dp"
+        android:layout_marginBottom="409dp"
+        android:background="@drawable/textbackgroundsignup"
+        android:ems="10"
+        android:fontFamily="sans-serif"
+        android:hint="Type your Email"
+        android:inputType="textEmailAddress"
+        android:maxHeight="3dp"
+        android:maxLines="1"
+        android:paddingLeft="75dp"
+        android:textColor="@color/black"
+        android:textColorHint="#75000000"
+        android:textSize="20dp"
+        android:textStyle="bold" />
+
+    <pl.droidsonroids.gif.GifImageView
+        android:layout_width="wrap_content"
+        android:layout_height="48dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="322dp"
+        android:layout_marginBottom="413dp"
+        android:src="@drawable/emaillogo" />
+
+    <EditText
+        android:id="@+id/editTextTextpassword"
+        android:layout_width="355dp"
+        android:layout_height="62dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="29dp"
+        android:layout_marginBottom="303dp"
+        android:background="@drawable/textbackgroundsignup"
+        android:ems="10"
+        android:fontFamily="sans-serif"
+        android:hint="Type your Password"
+        android:inputType="textPassword"
+        android:maxHeight="3dp"
+        android:maxLines="1"
+        android:paddingLeft="75dp"
+        android:textColor="@color/black"
+        android:textColorHint="#75000000"
+        android:textSize="20dp"
+        android:textStyle="bold" />
+
+    <EditText
+        android:id="@+id/editTextTextcpassword"
+        android:layout_width="355dp"
+        android:layout_height="62dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="28dp"
+        android:layout_marginBottom="203dp"
+        android:background="@drawable/textbackgroundsignup"
+        android:ems="10"
+        android:fontFamily="sans-serif"
+        android:hint="Retype your password"
+        android:inputType="textPassword"
+        android:maxHeight="3dp"
+        android:maxLines="1"
+        android:paddingLeft="75dp"
+        android:textColor="@color/black"
+        android:textColorHint="#75000000"
+        android:textSize="20dp"
+        android:textStyle="bold" />
+
+    <pl.droidsonroids.gif.GifImageView
+        android:layout_width="44dp"
+        android:layout_height="43dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="322dp"
+        android:layout_marginBottom="214dp"
+        android:src="@drawable/key" />
+
+    <pl.droidsonroids.gif.GifImageView
+        android:layout_width="44dp"
+        android:layout_height="43dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="318dp"
+        android:layout_marginBottom="311dp"
+        android:src="@drawable/key" />
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/button"
+        android:layout_width="208dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="99dp"
+        android:layout_marginBottom="126dp"
+        android:background="@drawable/button_background_blue"
+        android:fontFamily="@font/baloo_bhaina_2_bold"
+        android:paddingLeft="-2dp"
+        android:paddingTop="7dp"
+        android:text="Sign Up"
+        android:textAlignment="center"
+        android:textColor="@color/black"
+        android:textSize="19dp" />
+
+    <TextView
+        android:id="@+id/view_login"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="70dp"
+        android:layout_marginBottom="45dp"
+        android:fontFamily="@font/baloo_bhaina_2_bold"
+        android:text="Already have Account? Login Now"
+        android:textColor="#3B3C3C"
+        android:textSize="20dp" />
+
+    <ImageView
+        android:layout_width="49dp"
+        android:layout_height="36dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="20dp"
+        android:layout_marginBottom="48dp"
+        android:src="@drawable/baseline_arrow_right_alt_24" />
+
+
+</RelativeLayout>

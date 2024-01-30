@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Login"
+    android:background="@drawable/login2">
+
+    <ImageButton
+        android:id="@+id/backbuttonimage"
+        android:layout_width="43dp"
+        android:layout_height="37dp"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="10dp"
+        android:layout_marginEnd="349dp"
+        android:background="@drawable/baseline_arrow_back_ios_24" />
+
+    <EditText
+        android:id="@+id/editTextTextPassword"
+        android:layout_width="326dp"
+        android:layout_height="55dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="42dp"
+        android:layout_marginBottom="253dp"
+        android:background="@drawable/textbackground2"
+        android:ems="10"
+        android:fontFamily="sans-serif"
+        android:hint="Password"
+        android:inputType="textPassword"
+        android:maxHeight="3dp"
+        android:maxLines="1"
+        android:paddingLeft="73dp"
+        android:textColor="@color/black"
+        android:textColorHint="#75000000"
+        android:textSize="20dp"
+        android:textStyle="bold" />
+
+    <pl.droidsonroids.gif.GifImageView
+        android:layout_width="44dp"
+        android:layout_height="43dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="307dp"
+        android:layout_marginBottom="259dp"
+        android:src="@drawable/key" />
+
+    <EditText
+        android:id="@+id/editTextTextEmailAddress"
+        android:layout_width="326dp"
+        android:layout_height="55dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="43dp"
+        android:layout_marginBottom="353dp"
+        android:background="@drawable/textbackground"
+        android:ems="10"
+        android:fontFamily="sans-serif"
+        android:hint="Email"
+        android:inputType="textEmailAddress"
+        android:maxHeight="3dp"
+        android:maxLines="1"
+        android:paddingLeft="73dp"
+        android:textColor="@color/black"
+        android:textColorHint="#75000000"
+        android:textSize="20dp"
+        android:textStyle="bold" />
+
+    <pl.droidsonroids.gif.GifImageView
+        android:layout_width="44dp"
+        android:layout_height="43dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="308dp"
+        android:layout_marginBottom="360dp"
+        android:src="@drawable/user1" />
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/button"
+        android:layout_width="208dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="102dp"
+        android:layout_marginBottom="162dp"
+        android:background="@drawable/button_background_blue"
+        android:fontFamily="@font/baloo_bhaina_2_bold"
+        android:text="Login"
+        android:paddingTop="7dp"
+        android:paddingLeft="-2dp"
+        android:textAlignment="center"
+        android:textColor="@color/black"
+        android:textSize="19dp" />
+
+    <TextView
+        android:id="@+id/view_register"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="98dp"
+        android:layout_marginBottom="102dp"
+        android:fontFamily="@font/baloo_bhaina_2_bold"
+        android:text="New User? Register Now"
+        android:textColor="#3B3C3C"
+        android:textSize="20dp" />
+
+    <ImageView
+        android:layout_width="49dp"
+        android:layout_height="36dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="52dp"
+        android:layout_marginBottom="105dp"
+        android:src="@drawable/baseline_arrow_right_alt_24" />
+
+
+</RelativeLayout>
